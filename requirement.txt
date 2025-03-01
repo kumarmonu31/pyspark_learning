@@ -1,0 +1,4 @@
+pyspark==3.3.2  # Adjust version based on your cluster setup
+numpy==1.23.5   # For numerical operations
+pyarrow==11.0.0  # Required for fast serialization (Parquet, Arrow-based ops)
+fastparquet==0.8.3  # Alternative Parquet writer
