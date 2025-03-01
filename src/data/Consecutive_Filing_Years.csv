@@ -1,0 +1,15 @@
+filing_id,user_id,filing_date,product
+1,1,2019-04-14,TurboTax Desktop 2019
+2,1,2020-04-15,TurboTax Deluxe
+3,1,2021-04-15,TurboTax Online
+4,2,2020-04-07,TurboTax Online
+5,2,2021-04-07,TurboTax Desktop
+6,2,2022-04-07,TurboTax Deluxe
+7,3,2021-04-07,TurboTax Online
+8,3,2022-04-07,TurboTax Deluxe
+9,3,2023-04-07,TurboTax Desktop
+10,4,2020-04-07,TurboTax Online
+11,4,2020-05-01,TurboTax Deluxe
+12,5,,TurboTax Online
+13,6,2018-04-07,TurboTax Desktop
+14,6,2020-04-07,TurboTax Online
